@@ -1,0 +1,8 @@
+{
+ "db_name": "_fe6049184b008317",
+ "db_password": "F9Xh1S0hrCCJcqqU",
+ "db_type": "mariadb",
+ "encryption_key": "EMeO8shO_NIcYF1IOq8kULZkmWGmXWKIxSjyJFpM0lU=",
+ "ssl_certificate": "/etc/letsencrypt/live/nextash.com/fullchain.pem",
+ "ssl_certificate_key": "/etc/letsencrypt/live/nextash.com/privkey.pem"
+}

@@ -1,0 +1,10 @@
+{
+ "db_name": "aksm.nextash.cloud",
+ "db_password": "FcuRpcaDHGrw5w6R",
+ "db_type": "mariadb",
+ "ssl_certificate": "/etc/letsencrypt/live/aksm.nextash.cloud/fullchain.pem",
+ "ssl_certificate_key": "/etc/letsencrypt/live/aksm.nextash.cloud/privkey.pem",
+ "user_type_doctype_limit": {
+  "employee_self_service": 30
+ }
+}
